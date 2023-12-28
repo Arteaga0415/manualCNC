@@ -1,0 +1,1 @@
+This will be the project of a cnc mill controled with buttons, it will have the option of operating on two modes, one were the axis move continously and the other by measurements. 
